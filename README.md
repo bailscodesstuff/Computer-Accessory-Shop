@@ -1,3 +1,2 @@
-# OOPProject
-A nice introduction to object orientated programming.
-The project brief is in the pdf file I uploaded, enjoy!
+# Java Project : Computer Accesories Shop 
+This was an introduction to OOP project I did during my first year of univeristy. It was my first experince with OOP and Java, and I achieved 85% on it.
